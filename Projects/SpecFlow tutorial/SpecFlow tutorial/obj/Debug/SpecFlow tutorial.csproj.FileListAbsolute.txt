@@ -1,0 +1,12 @@
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\obj\Debug\SpecFlow tutorial.csprojResolveAssemblyReference.cache
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\obj\Debug\SpecFlow tutorial.csproj.CoreCompileInputs.cache
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\SpecFlow tutorial.dll.config
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\SpecFlow tutorial.dll
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\SpecFlow tutorial.pdb
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\nunit.framework.dll
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\bin\Debug\nunit.framework.xml
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\obj\Debug\SpecFlow tutorial.dll
+C:\Users\toouur\Documents\Visual Studio 2017\Projects\SpecFlow tutorial\SpecFlow tutorial\obj\Debug\SpecFlow tutorial.pdb
